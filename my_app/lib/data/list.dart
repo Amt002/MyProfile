@@ -36,6 +36,6 @@ final Map<String, List<Map<String, dynamic>>> weeklySkills = {
     {'name': 'TeamWork', 'percentage': 88},
     {'name': 'communcation skills', 'percentage': 88},
     {'name': 'Network', 'percentage': 75},
-    {'name': 'Github', 'percentage': 75},
+    {'name': 'Github', 'percentage': 80},
   ],
 };
